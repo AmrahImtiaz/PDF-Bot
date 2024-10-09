@@ -1,4 +1,1 @@
-![funny img](https://i.pinimg.com/736x/13/22/b5/1322b5d4ca518dadfd2b4c5124f9e2fe.jpg)
-
-Trained to prepare quiz for you and check the answer and summarize lecture pdfs made by using ollama model llama 3.1
-
+A bot that runs using llama 3.1 model locally installed. It can prepare quizes for you based on any particular topic/subject or pdf you submit and can check your answers. It can also summarize pdfs/doc/or any file for you.
